@@ -1,0 +1,36 @@
+h1 {
+    text-align: left;
+    font-weight: lighter;
+    font-size: 3px;
+}
+.keret 
+{
+    width: 95%;
+    margin: auto;
+    text-align: left;
+    padding: none;
+    background-color: rgba(255, 0, 0, 0.295);
+    
+}
+h2 {
+
+}
+body {
+    background-image: url("backgroundimagealt.png");
+    
+    background-size: unset;
+}
+p {
+    font-size: 0.5px;
+}
+img {
+    max-width: 800%;
+    margin: 10cm;
+    
+}
+a {
+    color: black;
+}
+a:visited {
+  
+  }

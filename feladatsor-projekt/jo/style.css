@@ -1,0 +1,40 @@
+h1 {
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.5em;
+}
+.keret 
+{
+    width: 70%;
+    margin: auto;
+    text-align: justify;
+    padding: 10px;
+    background-color: rgba(255, 255, 255, 0.486);
+    border: 5px solid gold;
+}
+h2 {
+    color: gold;
+    font-weight: bold;
+}
+body {
+    background-image: url("backgroundimagealt.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+p {
+    color: black;
+    font-size: 1.5rem;
+    font-family: 'Franklin Gothic Medium' ;
+}
+img {
+    float: right;
+    max-height: 70%;
+    margin: 10px;
+    
+}
+a {
+    color: black;
+}
+a:visited {
+    color: green;
+  }
